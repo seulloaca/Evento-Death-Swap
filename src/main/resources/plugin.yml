@@ -1,0 +1,6 @@
+name: DeathSwap
+version: ${project.version}
+main: tech.sebazcrc.deathswap.Main
+api-version: 1.16
+commands:
+  ds:
